@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0"/>
+    
+    <!-- Left Puzzle Piece (Purple) -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M54,27C39.1,27 27,39.1 27,54C27,68.9 39.1,81 54,81C68.9,81 81,68.9 81,54C81,39.1 68.9,27 54,27ZM54,67.5C50.1,67.5 47,64.4 47,60.5C47,56.6 50.1,53.5 54,53.5C57.9,53.5 61,56.6 61,60.5C61,64.4 57.9,67.5 54,67.5Z"/>
+    
+    <!-- Right Puzzle Piece (Teal) -->
+    <path
+        android:fillColor="#03DAC6"
+        android:pathData="M54,27C68.9,27 81,39.1 81,54C81,68.9 68.9,81 54,81C39.1,81 27,68.9 27,54C27,39.1 39.1,27 54,27ZM54,67.5C57.9,67.5 61,64.4 61,60.5C61,56.6 57.9,53.5 54,53.5C50.1,53.5 47,56.6 47,60.5C47,64.4 50.1,67.5 54,67.5Z"/>
+    
+    <!-- Infinity Symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,45C51.8,45 49.8,45.8 48.2,47.2C46.6,48.6 45.5,50.5 45.5,52.5C45.5,54.5 46.6,56.4 48.2,57.8C49.8,59.2 51.8,60 54,60C56.2,60 58.2,59.2 59.8,57.8C61.4,56.4 62.5,54.5 62.5,52.5C62.5,50.5 61.4,48.6 59.8,47.2C58.2,45.8 56.2,45 54,45Z"/>
+</vector> 

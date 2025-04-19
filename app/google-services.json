@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528251697818",
+    "project_id": "truebond1221",
+    "storage_bucket": "truebond1221.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528251697818:android:60d45415ccda65af16fd23",
+        "android_client_info": {
+          "package_name": "com.lucky.truebond"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0M7373gsEKFSU-L5DluBfihFNUlfX7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
